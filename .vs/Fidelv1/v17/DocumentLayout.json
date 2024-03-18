@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elliot.poggirosenbe\\Documents\\GitHub\\Fidelv1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEF81CB-E5C5-4252-8D1C-1AD270E13821}|Fidelv1\\Fidelv1.csproj|c:\\users\\elliot.poggirosenbe\\documents\\github\\fidelv1\\fidelv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEF81CB-E5C5-4252-8D1C-1AD270E13821}|Fidelv1\\Fidelv1.csproj|solutionrelative:fidelv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEF81CB-E5C5-4252-8D1C-1AD270E13821}|Fidelv1\\Fidelv1.csproj|c:\\users\\elliot.poggirosenbe\\documents\\github\\fidelv1\\fidelv1\\fidelv1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDEF81CB-E5C5-4252-8D1C-1AD270E13821}|Fidelv1\\Fidelv1.csproj|solutionrelative:fidelv1\\fidelv1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elliot.poggirosenbe\\Documents\\GitHub\\Fidelv1\\Fidelv1\\Program.cs",
+              "RelativeDocumentMoniker": "Fidelv1\\Program.cs",
+              "ToolTip": "C:\\Users\\elliot.poggirosenbe\\Documents\\GitHub\\Fidelv1\\Fidelv1\\Program.cs",
+              "RelativeToolTip": "Fidelv1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:35:38.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fidelv1",
+              "DocumentMoniker": "C:\\Users\\elliot.poggirosenbe\\Documents\\GitHub\\Fidelv1\\Fidelv1\\Fidelv1.csproj",
+              "RelativeDocumentMoniker": "Fidelv1\\Fidelv1.csproj",
+              "ToolTip": "C:\\Users\\elliot.poggirosenbe\\Documents\\GitHub\\Fidelv1\\Fidelv1\\Fidelv1.csproj",
+              "RelativeToolTip": "Fidelv1\\Fidelv1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T13:35:25.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

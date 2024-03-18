@@ -1,0 +1,14 @@
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\bin\Debug\net8.0\Fidelv1.exe
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\bin\Debug\net8.0\Fidelv1.deps.json
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\bin\Debug\net8.0\Fidelv1.runtimeconfig.json
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\bin\Debug\net8.0\Fidelv1.dll
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\bin\Debug\net8.0\Fidelv1.pdb
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\Fidelv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\Fidelv1.AssemblyInfoInputs.cache
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\Fidelv1.AssemblyInfo.cs
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\Fidelv1.csproj.CoreCompileInputs.cache
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\Fidelv1.dll
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\refint\Fidelv1.dll
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\Fidelv1.pdb
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\Fidelv1.genruntimeconfig.cache
+C:\Users\elliot.poggirosenbe\source\repos\Fidelv1\Fidelv1\obj\Debug\net8.0\ref\Fidelv1.dll
